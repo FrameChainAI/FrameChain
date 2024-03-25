@@ -1,6 +1,6 @@
 [submodule "python"]
 	path = python
-	url = https://github.com/FrameChain/FrameChain-python
+	url = https://github.com/FrameChainAI/FrameChain-python
 [submodule "typescript"]
 	path = typescript
 	url = https://github.com/FrameChainAI/FrameChain-typescript
